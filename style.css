@@ -1,0 +1,21 @@
+body{
+background-size: cover;
+}
+.heading{
+   font-size: 25;
+    width:100%; 
+    margin:0px;
+}
+.status,.status1{
+    font-size: 20;
+}
+canvas{
+    border:5px dotted red;
+}
+.name{
+    position:fixed;
+    right: 10px;
+    bottom: 2px;
+    box-shadow:5px 5px 5px grey;
+    font: size 10px;
+}
